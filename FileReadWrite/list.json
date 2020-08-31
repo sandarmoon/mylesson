@@ -1,0 +1,18 @@
+[
+    {
+        "profile": "images\/1596106447team-2-800x800.jpg",
+        "logo": "images\/logo\/1596106447bootstrap.jpg",
+        "name": "lwin min oo",
+        "birthday": "2020-07-08",
+        "gender": "male",
+        "language": "js"
+    },
+    {
+        "profile": "images\/15965971121b4280ddb816558dac9737c4bf63f99d.jpg",
+        "logo": "images\/logo\/159659711217361588_768814603274628_1429257949842949357_n.jpg",
+        "name": "helo",
+        "birthday": "2020-08-06",
+        "gender": "female",
+        "language": "css"
+    }
+]

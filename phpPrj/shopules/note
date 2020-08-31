@@ -1,0 +1,47 @@
+PHP(folder)
+->FileReadWrite(folder)
+->php-db(folder)
+->phpPrj(folder)
+	->shopules(folder)
+		->backend(folder)
+		->favicon(folder)
+		->fonts(folder)
+		->frontend(folder)
+		->icon(folder)
+		->logo(folder)
+
+		=>FrontEnd_Template.php
+		=>FrontEnd_Header.php
+		=>FrontEnd_Footer.php
+		=>FrontEnd_Nav.php(nav of frontend)
+
+		=>dbconnect.php(databaseconnect)
+
+		=>BackEnd_Template.php
+		=>BackEnd_Header.php
+		=>BackEnd_Footer.php
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
